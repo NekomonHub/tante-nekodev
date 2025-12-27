@@ -1,0 +1,34 @@
+{
+  "name": "tante-nekodev",
+  "version": "1.0.0",
+  "description": "Bebas rename dan buat konten, Jangan hapus credit yaa :)",
+  "keywords": [
+    "Lyric",
+    "cover",
+    "Fun",
+    "Nodejs"
+  ],
+  "homepage": "https://github.com/NekomonHub/tante-cover#readme",
+  "bugs": {
+    "url": "https://github.com/NekomonHub/tante-cover/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekomonHub/tante-cover.git"
+  },
+  "license": "MIT",
+  "author": "Nekodev, NekomonHub",
+  "type": "module",
+  "main": "neko.js",
+  "scripts": {
+    "start": "node neko.js"
+  },
+  "dependencies": {
+    "ansi-styles": "^4.3.0",
+    "chalk": "^4.1.2",
+    "color-convert": "^2.0.1",
+    "color-name": "^1.1.4",
+    "has-flag": "^4.0.0",
+    "supports-color": "^7.2.0"
+  }
+}
